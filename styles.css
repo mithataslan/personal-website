@@ -1,0 +1,102 @@
+.top-container {
+  background-color: rgb(153, 153, 223);
+  position: relative;
+  padding-top: 100px;
+  width: 1349px;
+  height: 520px;
+}
+
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 0px;
+}
+h1{
+  margin: 0 auto 0 auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 4em;
+  color: black;
+  
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  
+}
+.middle-container{
+background-color: rgb(143, 197, 197);
+margin-bottom: 0px;
+position: static;
+}
+.bottom-container{
+ background-color:rgb(143, 197, 197) ; 
+ margin: 0;
+ padding: 0;
+}
+.violin{
+  width: 150px;
+  height: 150px;
+  float: right;
+  
+}
+.pp{
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin-top: 30px;
+}
+.software{
+  width: 150px;
+  height: 150px;
+  float: left;
+  
+  
+}
+.programmer{
+  font-size: 25px;
+  color: black;
+  font-weight: bold;
+  
+}
+.skill-row{
+  width: 50%;
+  margin: 60px auto 100px auto;
+  text-align: center;
+
+}
+.footer-link{
+  text-decoration: none;
+}
+a:hover{
+  color: cornflowerblue;
+}
+a{
+  color: darkslateblue;
+  margin: 10px 20px;
+}
+hr{
+  border:dotted black 6px;
+  width: 4%;
+  margin: 100px auto;
+  border-bottom: none;
+}
+.get{
+  margin: 0px;
+  padding-bottom: 20px;
+}
+.mithat{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.p1{
+  margin-top: 50px;
+  padding-right: 40px;
+  
+}
